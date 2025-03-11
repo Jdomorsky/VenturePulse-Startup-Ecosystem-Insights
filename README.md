@@ -31,7 +31,10 @@ Overall, the project serves as a strategic lens through which stakeholders can a
 
 ![Multi-Line Graph](https://github.com/user-attachments/assets/d70eee3b-df5a-432a-a713-ca110a6d9f45)
 
+![Bar Graph](https://github.com/user-attachments/assets/9ac0520c-dfc4-4b35-a84e-7affea076a98)
+
 ![Dashboard](https://github.com/user-attachments/assets/0f06c8f8-8d57-43b4-b973-6a4c8ddafc78)
+
 
 
 ---
