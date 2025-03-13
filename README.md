@@ -1,5 +1,5 @@
 ---
-# **Startup Growth, Funding, and Trends Analysis**
+# **VenturePulse: Startup Ecosystem Insights**
 ---
 ## **Table of Contents**
 ---
