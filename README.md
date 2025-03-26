@@ -94,7 +94,7 @@ The startup_data dataset is publicly accessible on Kaggle and is available under
 
 In the initial data preparation phase, I performed the following tasks:
 1. Data Loading and Inspection.
-2. Handling Missing Values,
+2. Handling Missing Values.
 3. Data Cleaning and Formatting.
 
 ---
